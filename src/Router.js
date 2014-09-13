@@ -4,7 +4,7 @@ define([
 ], function(
 	Marionette
 ){
-	return Marionette.Router.extend({
+	return Marionette.AppRouter.extend({
 		navigate: function(_route, _opts){
 			if(!_opts){
 				_opts = {};
