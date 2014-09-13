@@ -2,6 +2,7 @@
 Class: CompositeView
 Marionette CompositeView with 'viewHelpers' added.  Also, automatically fetch collection on render.
 */
+/* global define */
 define([
 	'marionette'
 	,'underscore'

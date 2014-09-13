@@ -2,6 +2,7 @@
 Class: ItemView
 Marionette ItemView with 'viewHelpers' added.
 */
+/* global define */
 define([
 	'marionette'
 	,'./viewHelpers'

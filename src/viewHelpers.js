@@ -2,6 +2,7 @@
 Object: viewHelpers
 Helper methods to attach to views.
 */
+/* global define */
 define([
 	'underscore'
 ], function(

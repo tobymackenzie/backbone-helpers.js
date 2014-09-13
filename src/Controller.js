@@ -1,3 +1,4 @@
+/* global define, window */
 define([
 	'backbone'
 	,'marionette'
